@@ -7,3 +7,9 @@ Accurate customer segmentation for the marketing team to develop personalized st
 - The company’s near-term objective is to maintain its overall market share, with the increasing competition offering 10-minute delivery, among other benefits.<br>
 
 **Identify customer groups which have different purchasing preferences based on their affluence and other attributes and devise an effective marketing plan & preference-based user experience at a cohort/group level.**
+
+## Overall Approach
+![Approach](https://github.com/anandumrani/Retail_Customer_Segmentation/assets/105964876/afd1253d-75fc-4ae2-946f-9eb12c0afbeb)
+
+## Steps for Clustering
+![Clustering Approach](https://github.com/anandumrani/Retail_Customer_Segmentation/assets/105964876/e2d836ea-cf3f-4dac-be5b-d6e4c2394318)
