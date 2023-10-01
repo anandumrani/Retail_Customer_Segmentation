@@ -9,7 +9,7 @@ Accurate customer segmentation for the marketing team to develop personalized st
 **Identify customer groups which have different purchasing preferences based on their affluence and other attributes and devise an effective marketing plan & preference-based user experience at a cohort/group level.**
 
 ## Overall Approach
-![Approach](https://github.com/anandumrani/Retail_Customer_Segmentation/assets/105964876/afd1253d-75fc-4ae2-946f-9eb12c0afbeb)
+![Approach](https://github.com/anandumrani/Retail_Customer_Segmentation/assets/105964876/27bbf8ed-202e-4a91-b1c5-24392ebfca9c)
 
 ## Steps for Clustering
-![Clustering Approach](https://github.com/anandumrani/Retail_Customer_Segmentation/assets/105964876/e2d836ea-cf3f-4dac-be5b-d6e4c2394318)
+![ClusteringApproach](https://github.com/anandumrani/Retail_Customer_Segmentation/assets/105964876/f9befefa-286e-4360-acd9-4b5b0eac8152)
